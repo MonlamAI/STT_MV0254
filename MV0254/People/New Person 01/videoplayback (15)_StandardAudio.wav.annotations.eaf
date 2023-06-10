@@ -2,8 +2,8 @@
 <ANNOTATION_DOCUMENT AUTHOR="" DATE="2011-06-24T16:18:11-08:00" FORMAT="2.7" VERSION="2.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.7.xsd">
   <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
     <PROPERTY NAME="lastUsedAnnotationId">844</PROPERTY>
-    <MEDIA_DESCRIPTOR MEDIA_URL="videoplayback_Source.mp4" MIME_TYPE="video/*" />
-    <MEDIA_DESCRIPTOR EXTRACTED_FROM="videoplayback_Source.mp4" MEDIA_URL="videoplayback_Source_StandardAudio.wav" MIME_TYPE="audio/x-wav" />
+    <MEDIA_DESCRIPTOR MEDIA_URL="videoplayback (15).mp4" MIME_TYPE="video/*" />
+    <MEDIA_DESCRIPTOR EXTRACTED_FROM="videoplayback (15).mp4" MEDIA_URL="videoplayback (15)_StandardAudio.wav" MIME_TYPE="audio/x-wav" />
   </HEADER>
   <TIME_ORDER>
     <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0" />
